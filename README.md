@@ -1,6 +1,6 @@
 # Sample Files For Use In Test Servers
 
-These files are for the handful of dummy servers.\n
+These files are for the handful of dummy servers I spin up.
 The .bashrc and .vimrc are configured to be more user-friendly - making use of colorscheme desert.
 The db_setup.sh script will start a postgres 9.6 docker image and prefill a table with some dummy data.
 
