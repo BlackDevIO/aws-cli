@@ -3,7 +3,7 @@
 echo "Updating and installing Docker"
 sudo yum update -y
 sudo yum upgrade -y
-sudo yum install -y docker
+sudo yum install -y docker-engine
 
 echo "Starting and enabling Docker"
 sudo systemctl start docker
